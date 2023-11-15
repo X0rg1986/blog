@@ -1,0 +1,18 @@
+{
+    "name": "x0rg/blog",
+    "description": "Simple blog system",
+    "type": "doctrine",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "X0rg\\Blog\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Johnatan Acuña Macias"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
